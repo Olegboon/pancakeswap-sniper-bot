@@ -6,6 +6,7 @@ Pancakeswap Sniper Bot based on BSC. Autobuy, autosell, custom gas fee, coolest 
 
 ## 📚 Change Log
 ###### • Version 1.1 [release]
+###### • Version 1.2 [fixed minor bugs, added new icons]
 ---
 ## 📝 How to install
 ###### 1. Download pcs1.1.zip and unpack them on your desktop.
