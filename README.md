@@ -17,4 +17,4 @@ Pancakeswap Sniper Bot based on BSC. Autobuy, autosell, custom gas fee, coolest 
 ###### 5. Enjoy and leave a star, if you like it!
 
 
-# password pancake
+
